@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561022184490",
+    "project_id": "techtower-531df",
+    "storage_bucket": "techtower-531df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561022184490:android:b2b9f242334a55f94c6753",
+        "android_client_info": {
+          "package_name": "br.com.dtec.loja.minimalstore2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiXy_Xy2Fw3juN5esYrximKmhmwh14q6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
